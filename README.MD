@@ -8,8 +8,8 @@ But its just a css, it should work everywhere.
 ### 1. Go here on your local system and make a backup: 
 
 ```cd ~/Library/Application\ Support/Google/Chrome/Default/Extensions/bikioccmkafdpakkkcpdbppfkghcmihk/[CURRENT SIGNAL VERSION]/stylesheets
-```
-```mv manifest.css manifest.23
+
+mv manifest.css manifest.23
 ```
 
 * My Signal version is "0.25.4_0" So I go here: 
