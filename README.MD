@@ -1,14 +1,15 @@
-README.MD
-
-## Tested on OSX only
+### Tested on OSX only
 But its just a css, it should work everywhere.
 
-## "Android" Theme supported only!!!
+## "Android" signal theme supported only!!! iOS is still in progress.
 
 ### 1. Go here on your local system and make a backup: 
 
-```cd ~/Library/Application\ Support/Google/Chrome/Default/Extensions/bikioccmkafdpakkkcpdbppfkghcmihk/[CURRENT SIGNAL VERSION]/stylesheets
+```
+cd ~/Library/Application\ Support/Google/Chrome/Default/Extensions/bikioccmkafdpakkkcpdbppfkghcmihk/[CURRENT SIGNAL VERSION]/stylesheets
+```
 
+```
 mv manifest.css manifest.23
 ```
 
