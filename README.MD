@@ -7,9 +7,7 @@ But its just a css, it should work everywhere.
 
 ```
 cd ~/Library/Application\ Support/Google/Chrome/Default/Extensions/bikioccmkafdpakkkcpdbppfkghcmihk/[CURRENT SIGNAL VERSION]/stylesheets
-```
 
-```
 mv manifest.css manifest.23
 ```
 
