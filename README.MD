@@ -7,18 +7,22 @@ But its just a css, it should work everywhere.
 
 ```
 cd ~/Library/Application\ Support/Google/Chrome/Default/Extensions/bikioccmkafdpakkkcpdbppfkghcmihk/[CURRENT SIGNAL VERSION]/stylesheets
+```
 
+```
 mv manifest.css manifest.23
 ```
 
 * My Signal version is "0.25.4_0" So I go here: 
 
-```~/Library/Application\ Support/Google/Chrome/Default/Extensions/bikioccmkafdpakkkcpdbppfkghcmihk/0.25.4_0/stylesheets/
+```
+~/Library/Application\ Support/Google/Chrome/Default/Extensions/bikioccmkafdpakkkcpdbppfkghcmihk/0.25.4_0/stylesheets/
 ```
 
 ### 2. Get the replacement dark theme file.
 
-```curl -O https://raw.githubusercontent.com/NoDataFound/Signal/master/manifest.css
+```
+curl -O https://raw.githubusercontent.com/NoDataFound/Signal/master/manifest.css
 ```
 ### 3. Restart Signal
 
